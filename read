@@ -1,0 +1,23 @@
+[
+{"type":"header","version":"4.9.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"xcode_db"},
+{"type":"table","name":"users","database":"xcode_db","data":
+[
+{"stu_name":"emuel","last_name":"aldridge","domain":"https:\/\/emuel.com","section":"9:05","fact":"I am the teacher  ","counter":"1"},
+{"stu_name":"Kyla","last_name":"Sterling","domain":"https:\/\/kylasterling.com","section":"9:05","fact":" I swam in Loch Ness. ","counter":"7"},
+{"stu_name":"Matthew","last_name":"Gay","domain":"https:\/\/Mattgay.com","section":"9:05","fact":"  I have 4 brothers. ","counter":"5"},
+{"stu_name":"Geoffrey","last_name":"Dodd","domain":"https:\/\/GeoffDodd.com","section":"9:05","fact":"  I haven’t left my room in 72 hours...","counter":"6"},
+{"stu_name":"Luke","last_name":"Doub","domain":"https:\/\/www.reddit.com\/r\/aussiesdoingthings\/","section":"9:05","fact":"In the 8th grade I experimentally learned that we have a hollow in our legs behind the shins by busting mine open with a bat (on accident).","counter":"4"},
+{"stu_name":"Carolyn","last_name":"Borkowski","domain":"https:\/\/carolbork.com","section":"9:05","fact":"I own about 150 bottles of nail polish.  ","counter":"8"},
+{"stu_name":"Griffin","last_name":"Riekel","domain":"https:\/\/griffin.com","section":"9:05","fact":"  I like to collect and learn different instruments. ","counter":"9"},
+{"stu_name":"Austin","last_name":"Lambert","domain":"https:\/\/reddit.com","section":"9:05","fact":"  I am the president of the UGA Paintball club.","counter":"10"},
+{"stu_name":"Mallory","last_name":"Mifflin","domain":"https:\/\/mallorymifflin.com","section":"9:05","fact":"  Britney Spears follows me on Twitter!","counter":"11"},
+{"stu_name":"Linoy","last_name":"Celolichin","domain":"https:\/\/linoy.com","section":"9:05","fact":"  I am the youngest person in the class","counter":"12"},
+{"stu_name":"Patricia","last_name":"Irizarry","domain":"https:\/\/patriciairizarry.com","section":"9:05","fact":"  I can wiggle my ears! ","counter":"13"},
+{"stu_name":"Alex","last_name":"Miller","domain":"https:\/\/MillsPlays.com","section":"9:05","fact":"  I stream games on Twitch and did my undergrad in Scotland","counter":"14"},
+{"stu_name":"Kaitlyn","last_name":"Fellows","domain":"https:\/\/kaitlynfellows.com","section":"9:05","fact":"  I lived in Italy for 6 months of college.","counter":"15"},
+{"stu_name":"Brady","last_name":"Eastin","domain":"https:\/\/bradyeastin.com\/7110","section":"9:05","fact":"I'm a graduate assistant at the NMI where I work as producer of TEDxUGA.","counter":"16"},
+{"stu_name":"Charan","last_name":"Ramachandran","domain":"https:\/\/quickdraw.withgoogle.com\/","section":"9:05","fact":"  I like making music.","counter":"17"}
+]
+}
+]
