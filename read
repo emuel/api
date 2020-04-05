@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"4.9.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"xcode_db"},
-{"type":"table","name":"users","database":"xcode_db","data":
-[
 {"stu_name":"emuel","last_name":"aldridge","domain":"https:\/\/emuel.com","section":"9:05","fact":"I am the teacher  ","counter":"1"},
 {"stu_name":"Kyla","last_name":"Sterling","domain":"https:\/\/kylasterling.com","section":"9:05","fact":" I swam in Loch Ness. ","counter":"7"},
 {"stu_name":"Matthew","last_name":"Gay","domain":"https:\/\/Mattgay.com","section":"9:05","fact":"  I have 4 brothers. ","counter":"5"},
@@ -19,5 +15,4 @@
 {"stu_name":"Brady","last_name":"Eastin","domain":"https:\/\/bradyeastin.com\/7110","section":"9:05","fact":"I'm a graduate assistant at the NMI where I work as producer of TEDxUGA.","counter":"16"},
 {"stu_name":"Charan","last_name":"Ramachandran","domain":"https:\/\/quickdraw.withgoogle.com\/","section":"9:05","fact":"  I like making music.","counter":"17"}
 ]
-}
-]
+
