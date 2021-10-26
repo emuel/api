@@ -1,66 +1,53 @@
-
 [
-{
-"question": "How many seasons are there of Friends?\n(a) ten \n\ (b) five\n (c) eight",
-"answer": "a"
+    {
+        "question": "How many seasons are there of Friends?n(a) ten n (b) fiven (c) eight",
+        "answer": "a"
 
 },
-{
-"question": "Who pees on Monica after she gets stung by a jellyfish?\n(a) Rachel \n\ (b) Chandler\n (c) Joey",
-"answer": "b"
+    {
+        "question": "Who pees on Monica after she gets stung by a jellyfish?n(a) Rachel n (b) Chandlern (c) Joey",
+        "answer": "b"
 
 },
-{
-"question": "What was the name of Ross' pet monkey?\n(a) Marcel \n\ (b) Lucky\n (c) Ben",
-"answer": "a"
+    {
+        "question": "What was the name of Ross' pet monkey?n(a) Marcel n (b) Luckyn (c) Ben",
+        "answer": "a"
 
 },
-{
-"question": "What doesn't Joey share?\n(a) Food \n\ (b) Money\n (c) Girls",
-"answer": "a"
+    {
+        "question": "What doesn't Joey share?n(a) Food n (b) Moneyn (c) Girls",
+        "answer": "a"
 
 },
-{
-"question": "Who pees on Monica after she gets stung by a jellyfish ?\n(a) Rachel \n\ (b) Chandler\n (c) Joey",
-"answer": "b"
+    {
+        "question": "Who pees on Monica after she gets stung by a jellyfish ?n(a) Rachel n (b) Chandlern (c) Joey",
+        "answer": "b"
 
 },
-{
-"question": "What holiday does Chandler hate?\n(a) Christmas \n\ (b) Thanksgiving\n (c) Easter",
-"answer": "b"
+    {
+        "question": "What holiday does Chandler hate?n(a) Christmas n (b) Thanksgivingn (c) Easter",
+        "answer": "b"
 
 },
-{
-"question": "What famous actress plays Rachel's sister?\n(a) Anne Hathaway  \n\ (b) Emma Stone\n (c) Reese Witherspoon",
-"answer": "c"
+    {
+        "question": "What famous actress plays Rachel's sister?n(a) Anne Hathaway  n (b) Emma Stonen (c) Reese Witherspoon",
+        "answer": "c"
 
 },
-{
-"question": "What city is Friends set in?\n(a) Los Angeles \n\ (b) New York City\n (c) Washington D.C.",
-"answer": "b"
+    {
+        "question": "What city is Friends set in?n(a) Los Angeles n (b) New York Cityn (c) Washington D.C.",
+        "answer": "b"
 
 },
-{
-"question": "Where did Monica and Chandler first get together?\n(a) Hawaii \n\ (b) Paris\n (c) London",
-"answer": "c"
+    {
+        "question": "Where did Monica and Chandler first get together?n(a) Hawaii n (b) Parisn (c) London",
+        "answer": "c"
 
 },
-{
-"question": "What is the name of Phoebe's sister?\n(a) Ursula \n\ (b) Amy\n (c) Janice",
-"answer": "a"
+    {
+        "question": "What is the name of Phoebe's sister?n(a) Ursula n (b) Amyn (c) Janice",
+        "answer": "a"
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 ]
