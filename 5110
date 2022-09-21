@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"4.9.7","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"nmidevxy_db"},
-{"type":"table","name":"users","database":"nmidevxy_db","data":
-[
 {"stu_name":"Emuel","last_name":"Aldridge","domain":"emuel.com","fact":"I am the teacher  ","section":"physical","counter":"1"},
 {"stu_name":"Grace","last_name":"McCarthy","domain":"https:\/\/gracejmccarthy.com\/em\/6020","fact":"  In middle school I babysat T-Pain's kids: there names were: Muziq and Lyriq! ","section":"physical","counter":"128"},
 {"stu_name":"Olivia","last_name":"Wakim","domain":"oliviawakim.com\/nmc\/4020\/","fact":"I was published in the AJC this summer during my internship!","section":"physical","counter":"123"},
@@ -69,5 +65,4 @@
 {"stu_name":"Katelyn","last_name":"Boyd","domain":"https:\/\/kofipressco.com\/6020\/","fact":"  I can fall asleep anywhere at anytime!","section":"carino","counter":"171"},
 {"stu_name":"Raysean","last_name":"Ricks","domain":"rayseanricks.com\/em\/6020","fact":"  Hi. I'm Raysean. I'm a podcaster. You can listen to me every week on In the Wild, Augusta University's official podcast.","section":"online","counter":"172"}
 ]
-}
-]
+
