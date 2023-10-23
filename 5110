@@ -1,7 +1,4 @@
-[
-{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"nmidevxy_db"},
-{"type":"table","name":"users","database":"nmidevxy_db","data":
+
 [
 {"stu_name":"Sarah","last_name":"Margate","domain":"https:\/\/sarahmargate.reclaim.hosting\/nmc\/6020\/copetillo\/classb\/","fact":"  I used to be a state runner and I like to crochet for fun!","section":"b","counter":"285"},
 {"stu_name":"Vincent","last_name":"Hamilton","domain":"amazingvinhamilton.com\/em\/6020e","fact":"I often forget to add the \"e\" to folder names. Also, I have cats named after Star Wars characters because I'm nerdy like that.","section":"a","counter":"286"},
@@ -67,5 +64,4 @@
 {"stu_name":"Miguel","last_name":"Galindo","domain":"https:\/\/miguelgalindo5.com\/em\/6020e","fact":"\"Don't let what you are good at define who you are, who are you if you can't do what you are good at?\"","section":"b","counter":"291"},
 {"stu_name":"Jamar","last_name":"Fordham","domain":"jamarfordham.com\/nmc\/4020e","fact":"  I produce fully handmade garments. Bags of all types and mens\/womens custom clothing. I have worked with famous recording artists such as Waka Flocka Flame and Sam Hunt. ","section":"a","counter":"292"}
 ]
-}
-]
+
